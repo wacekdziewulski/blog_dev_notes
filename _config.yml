@@ -13,8 +13,8 @@ description:
   got to know Perl, created projects in Python, now making friends with Java.
   In my spare time, I'm an FPV drone pilot and run a blog and Youtube channel
   called 4Smigla.pl.
-baseurl: "/blog"
-url: "https://wacekdziewulski.ovh"
+baseurl: ""
+url: "https://blog.wacekdziewulski.ovh"
 github_username:  wacekdziewulski
 
 # Build settings

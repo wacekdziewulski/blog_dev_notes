@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python3 snippets"
+title:  "Python3: Code Snippets"
 date:   2020-02-10 12:30:00 +0100
 categories: python3
 ---

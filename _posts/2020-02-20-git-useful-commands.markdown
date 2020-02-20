@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Useful git commands"
+title:  "Git: Useful commands"
 date:   2020-02-20 09:30:00 +0100
 categories: git
 ---

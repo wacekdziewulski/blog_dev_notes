@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Python3: Code Snippets"
+title:  "Python 3: Code Snippets"
 date:   2020-02-10 12:30:00 +0100
-categories: python3
+categories: python
 ---
 
 Python allows one to write really concise code, which does some pretty nice input processing. It's expressiveness is something that sets it apart from some other languages, especially for some obvious transformations. Here's a few I came up with. Please do comment if You have something interesting or a shorter solution :) I'd love to give it a look. Here's a few of mine.
